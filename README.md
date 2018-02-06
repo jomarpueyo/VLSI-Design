@@ -8,3 +8,4 @@ Verilog Files From Intro to VLSI - Includes Layout images and Schematics
 * Arithmetic Logic Unit
 * BCD to Binary
 * Floating Point Multiplier
+Some folders may have images of processes/layouts
